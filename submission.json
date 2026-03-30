@@ -1,0 +1,7 @@
+{
+  "prompt": "Cinematic wide-angle editorial photograph of an extremely long dining table stretching across a dark room. On the far left side, a dense crowd of dozens of people sit tightly packed together, sharing a single small, nearly empty plate, their faces tired and dimly lit. The left side is cold, shadowy, and desaturated in blue-grey tones. On the far right side of the table, a single well-dressed person sits alone in a large open space, surrounded by an excessive abundance of food — overflowing plates, fruits, bread, and luxury dishes covering the table. This side is warmly lit with rich golden light, creating a strong contrast. The middle of the table gradually transitions from scarcity to excess, visually showing imbalance through space, quantity, and light. The composition follows rule of thirds, with the poor crowd compressed into one side and vast empty space around the wealthy individual. Mood: heavy, uncomfortable, morally tense, emphasizing extreme imbalance and isolation. Color palette: cold desaturated blue-grey on the left, warm golden amber on the right. Photorealistic, high detail, cinematic lighting, shallow depth of field. No text, no labels, no numbers, no charts, no symbols, no infographic elements.",
+  "model": "DALL-E 3",
+  "dataset_name": "World Inequality Database",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The top 1% owns more wealth than the rest of the world combined."
+}
